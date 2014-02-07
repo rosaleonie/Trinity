@@ -1,0 +1,5 @@
+$("h1").css({ 'color': '#DF0101', 'font-size': '150%' });
+
+$("title").text("New title");
+
+$(".email-policy").children("p").text("All students are welcome to email or phone me at any point, whenever it feels right for you. I will be sure to respond you your queries within 15 minutes.");
