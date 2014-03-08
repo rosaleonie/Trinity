@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Listed?": "Yes",
+        "Location": "Leidsekade",
+        "Website": "Mooi",
+        "Theatre": "Bellevue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.880890846252441,
+          52.363821125502135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Listed?": "Yes",
+        "Location": "Leidseplein",
+        "Website": "Groot",
+        "Theatre": "Stadsschouwburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8822104930877686,
+          52.36404387640279
+        ]
+      }
+    }
+  ]
+}
